@@ -1,0 +1,15 @@
+C:\Users\dellc\Desktop\DotNet\Assignment2\Assignmet1Q2Commandline\Assignmet1Q2Commandline\bin\Debug\net6.0\Assignmet1Q2Commandline.exe
+C:\Users\dellc\Desktop\DotNet\Assignment2\Assignmet1Q2Commandline\Assignmet1Q2Commandline\bin\Debug\net6.0\Assignmet1Q2Commandline.deps.json
+C:\Users\dellc\Desktop\DotNet\Assignment2\Assignmet1Q2Commandline\Assignmet1Q2Commandline\bin\Debug\net6.0\Assignmet1Q2Commandline.runtimeconfig.json
+C:\Users\dellc\Desktop\DotNet\Assignment2\Assignmet1Q2Commandline\Assignmet1Q2Commandline\bin\Debug\net6.0\Assignmet1Q2Commandline.dll
+C:\Users\dellc\Desktop\DotNet\Assignment2\Assignmet1Q2Commandline\Assignmet1Q2Commandline\bin\Debug\net6.0\Assignmet1Q2Commandline.pdb
+C:\Users\dellc\Desktop\DotNet\Assignment2\Assignmet1Q2Commandline\Assignmet1Q2Commandline\obj\Debug\net6.0\Assignmet1Q2Commandline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dellc\Desktop\DotNet\Assignment2\Assignmet1Q2Commandline\Assignmet1Q2Commandline\obj\Debug\net6.0\Assignmet1Q2Commandline.AssemblyInfoInputs.cache
+C:\Users\dellc\Desktop\DotNet\Assignment2\Assignmet1Q2Commandline\Assignmet1Q2Commandline\obj\Debug\net6.0\Assignmet1Q2Commandline.AssemblyInfo.cs
+C:\Users\dellc\Desktop\DotNet\Assignment2\Assignmet1Q2Commandline\Assignmet1Q2Commandline\obj\Debug\net6.0\Assignmet1Q2Commandline.csproj.CoreCompileInputs.cache
+C:\Users\dellc\Desktop\DotNet\Assignment2\Assignmet1Q2Commandline\Assignmet1Q2Commandline\obj\Debug\net6.0\Assignmet1Q2Commandline.sourcelink.json
+C:\Users\dellc\Desktop\DotNet\Assignment2\Assignmet1Q2Commandline\Assignmet1Q2Commandline\obj\Debug\net6.0\Assignmet1Q2Commandline.dll
+C:\Users\dellc\Desktop\DotNet\Assignment2\Assignmet1Q2Commandline\Assignmet1Q2Commandline\obj\Debug\net6.0\refint\Assignmet1Q2Commandline.dll
+C:\Users\dellc\Desktop\DotNet\Assignment2\Assignmet1Q2Commandline\Assignmet1Q2Commandline\obj\Debug\net6.0\Assignmet1Q2Commandline.pdb
+C:\Users\dellc\Desktop\DotNet\Assignment2\Assignmet1Q2Commandline\Assignmet1Q2Commandline\obj\Debug\net6.0\Assignmet1Q2Commandline.genruntimeconfig.cache
+C:\Users\dellc\Desktop\DotNet\Assignment2\Assignmet1Q2Commandline\Assignmet1Q2Commandline\obj\Debug\net6.0\ref\Assignmet1Q2Commandline.dll
