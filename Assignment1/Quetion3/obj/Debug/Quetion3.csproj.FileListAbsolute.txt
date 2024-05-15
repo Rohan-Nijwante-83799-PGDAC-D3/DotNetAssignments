@@ -1,0 +1,7 @@
+C:\Users\dellc\Desktop\DotNetAssignment\ConsoleApp1\Quetion3\bin\Debug\Quetion3.exe.config
+C:\Users\dellc\Desktop\DotNetAssignment\ConsoleApp1\Quetion3\bin\Debug\Quetion3.exe
+C:\Users\dellc\Desktop\DotNetAssignment\ConsoleApp1\Quetion3\bin\Debug\Quetion3.pdb
+C:\Users\dellc\Desktop\DotNetAssignment\ConsoleApp1\Quetion3\obj\Debug\Quetion3.csproj.AssemblyReference.cache
+C:\Users\dellc\Desktop\DotNetAssignment\ConsoleApp1\Quetion3\obj\Debug\Quetion3.csproj.CoreCompileInputs.cache
+C:\Users\dellc\Desktop\DotNetAssignment\ConsoleApp1\Quetion3\obj\Debug\Quetion3.exe
+C:\Users\dellc\Desktop\DotNetAssignment\ConsoleApp1\Quetion3\obj\Debug\Quetion3.pdb

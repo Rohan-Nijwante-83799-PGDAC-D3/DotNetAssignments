@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dellc\\Desktop\\DotNetAssignment\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64581637-2115-4430-AC37-FC7A06DF5A2C}|Quetion2\\Quetion2.csproj|c:\\users\\dellc\\desktop\\dotnetassignment\\consoleapp1\\quetion2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64581637-2115-4430-AC37-FC7A06DF5A2C}|Quetion2\\Quetion2.csproj|solutionrelative:quetion2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0714D685-75F4-48E8-8521-E21265FD302D}|Quetion3CommandLine\\Quetion3CommandLine.csproj|c:\\users\\dellc\\desktop\\dotnetassignment\\consoleapp1\\quetion3commandline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0714D685-75F4-48E8-8521-E21265FD302D}|Quetion3CommandLine\\Quetion3CommandLine.csproj|solutionrelative:quetion3commandline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dellc\\Desktop\\DotNetAssignment\\ConsoleApp1\\Quetion2\\Program.cs",
+              "RelativeDocumentMoniker": "Quetion2\\Program.cs",
+              "ToolTip": "C:\\Users\\dellc\\Desktop\\DotNetAssignment\\ConsoleApp1\\Quetion2\\Program.cs",
+              "RelativeToolTip": "Quetion2\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T05:49:56.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dellc\\Desktop\\DotNetAssignment\\ConsoleApp1\\Quetion3CommandLine\\Program.cs",
+              "RelativeDocumentMoniker": "Quetion3CommandLine\\Program.cs",
+              "ToolTip": "C:\\Users\\dellc\\Desktop\\DotNetAssignment\\ConsoleApp1\\Quetion3CommandLine\\Program.cs",
+              "RelativeToolTip": "Quetion3CommandLine\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAwwBoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T05:43:08.929Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

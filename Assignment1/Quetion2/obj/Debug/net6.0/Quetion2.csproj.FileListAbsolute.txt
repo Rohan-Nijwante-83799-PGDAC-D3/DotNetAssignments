@@ -1,0 +1,15 @@
+C:\Users\dellc\Desktop\DotNetAssignment\ConsoleApp1\Quetion2\bin\Debug\net6.0\Quetion2.exe
+C:\Users\dellc\Desktop\DotNetAssignment\ConsoleApp1\Quetion2\bin\Debug\net6.0\Quetion2.deps.json
+C:\Users\dellc\Desktop\DotNetAssignment\ConsoleApp1\Quetion2\bin\Debug\net6.0\Quetion2.runtimeconfig.json
+C:\Users\dellc\Desktop\DotNetAssignment\ConsoleApp1\Quetion2\bin\Debug\net6.0\Quetion2.dll
+C:\Users\dellc\Desktop\DotNetAssignment\ConsoleApp1\Quetion2\bin\Debug\net6.0\Quetion2.pdb
+C:\Users\dellc\Desktop\DotNetAssignment\ConsoleApp1\Quetion2\obj\Debug\net6.0\Quetion2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dellc\Desktop\DotNetAssignment\ConsoleApp1\Quetion2\obj\Debug\net6.0\Quetion2.AssemblyInfoInputs.cache
+C:\Users\dellc\Desktop\DotNetAssignment\ConsoleApp1\Quetion2\obj\Debug\net6.0\Quetion2.AssemblyInfo.cs
+C:\Users\dellc\Desktop\DotNetAssignment\ConsoleApp1\Quetion2\obj\Debug\net6.0\Quetion2.csproj.CoreCompileInputs.cache
+C:\Users\dellc\Desktop\DotNetAssignment\ConsoleApp1\Quetion2\obj\Debug\net6.0\Quetion2.sourcelink.json
+C:\Users\dellc\Desktop\DotNetAssignment\ConsoleApp1\Quetion2\obj\Debug\net6.0\Quetion2.dll
+C:\Users\dellc\Desktop\DotNetAssignment\ConsoleApp1\Quetion2\obj\Debug\net6.0\refint\Quetion2.dll
+C:\Users\dellc\Desktop\DotNetAssignment\ConsoleApp1\Quetion2\obj\Debug\net6.0\Quetion2.pdb
+C:\Users\dellc\Desktop\DotNetAssignment\ConsoleApp1\Quetion2\obj\Debug\net6.0\Quetion2.genruntimeconfig.cache
+C:\Users\dellc\Desktop\DotNetAssignment\ConsoleApp1\Quetion2\obj\Debug\net6.0\ref\Quetion2.dll
